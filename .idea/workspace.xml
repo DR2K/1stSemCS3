@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d9bcaf1-f03a-49f8-955b-d06d08ea0783" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1078448259">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="33" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.4" value="10" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JPG" value="1" />
+          <entry key="class" value="8" />
+          <entry key="dat" value="16" />
+          <entry key="html" value="6" />
+          <entry key="in" value="4" />
+          <entry key="java" value="157" />
+          <entry key="jpg" value="1" />
+          <entry key="out" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="HTML" value="6" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="157" />
+          <entry key="PLAIN_TEXT" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dat" value="31" />
+          <entry key="dummy" value="34" />
+          <entry key="html" value="7" />
+          <entry key="in" value="3" />
+          <entry key="java" value="13997" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="7" />
+          <entry key="JAVA" value="13997" />
+          <entry key="PLAIN_TEXT" value="68" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1817363067">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="7" />
+          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="16" />
+          <entry key="dat" value="2" />
+          <entry key="html" value="2" />
+          <entry key="in" value="6" />
+          <entry key="java" value="181" />
+          <entry key="out" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="16" />
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="181" />
+          <entry key="PLAIN_TEXT" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="in" value="2" />
+          <entry key="java" value="4154" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4154" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist1/JavaLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist2/ListFunHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist3/ListFunHouseTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+              <folding>
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update</find>
+      <find>\</find>
+      <find>Graphics</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/lab03_maps student</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/CardPuzzle/fivebyfive.java" />
+        <option value="$PROJECT_DIR$/src/lab03_maps/HistogramRunner.java" />
+        <option value="$PROJECT_DIR$/src/lab03_maps/Histogram.java" />
+        <option value="$PROJECT_DIR$/src/lab03_maps/Part.java" />
+        <option value="$PROJECT_DIR$/src/lab03_maps/PartList.java" />
+        <option value="$PROJECT_DIR$/src/lab03_maps/PartRunner.java" />
+        <option value="$PROJECT_DIR$/src/lab03_maps/Relatives.java" />
+        <option value="$PROJECT_DIR$/src/lab03_maps/RelativesRunner.java" />
+        <option value="$PROJECT_DIR$/src/lab03_maps/SpanishToEnglish.java" />
+        <option value="$PROJECT_DIR$/src/lab03_maps/SpanRunner.java" />
+        <option value="$PROJECT_DIR$/src/lab07_sets/UniquesDupes.java" />
+        <option value="$PROJECT_DIR$/src/lab07_sets/MathSet.java" />
+        <option value="$PROJECT_DIR$/src/lab07_sets/Lab07c.java" />
+        <option value="$PROJECT_DIR$/src/lab07_sets/Lab07a.java" />
+        <option value="$PROJECT_DIR$/src/lab09_recursion/recursion_GCF/GCFRunner.java" />
+        <option value="$PROJECT_DIR$/src/lab09_recursion/recursion_GCF/GCF.java" />
+        <option value="$PROJECT_DIR$/src/lab09_recursion/recursion24/RecursionFunTwo.java" />
+        <option value="$PROJECT_DIR$/src/lab09_recursion/recursion24/RecursionFunThree.java" />
+        <option value="$PROJECT_DIR$/src/lab09_recursion/recursion24/RecursionFunOne.java" />
+        <option value="$PROJECT_DIR$/src/lab09_recursion/recursion24/Recursion234Runner.java" />
+        <option value="$PROJECT_DIR$/src/lab09_recursion/recursion_counter/AtCounter.java" />
+        <option value="$PROJECT_DIR$/src/lab09_recursion/recursion_counter/AtCounterRunner.java" />
+        <option value="$PROJECT_DIR$/src/lab05_iterators/IteratorRemover.java" />
+        <option value="$PROJECT_DIR$/src/lab05_iterators/Lab05a.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/boxes.java" />
+        <option value="$PROJECT_DIR$/src/lab05_iterators/05.iterators/foreachloop.java" />
+        <option value="$PROJECT_DIR$/src/misc/HistogramRunner.java" />
+        <option value="$PROJECT_DIR$/src/lab01_matrices/01g/Board.java" />
+        <option value="$PROJECT_DIR$/src/lab05_iterators/05.iterators/AddOne.java" />
+        <option value="$PROJECT_DIR$/src/lab01_matrices/01g/Block.java" />
+        <option value="$PROJECT_DIR$/src/lab05_iterators/05.iterators/NextOne.java" />
+        <option value="$PROJECT_DIR$/src/usacoTraining/milk2.out" />
+        <option value="$PROJECT_DIR$/src/usacoTraining/milk2.in" />
+        <option value="$PROJECT_DIR$/src/usacoTraining/milk2.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/2.linkedlist/Linkable.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist2/Linkable.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist5/Linkable.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist5/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist5/HistoList.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist5/HistogramList2Runner.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist2/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist2/ListFunHouseRunner.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist2/ListFunHouse.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist3/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist3/ListFunHouseTwoRunner.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist3/ListFunHouseTwo.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist4/HistoNode.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist1/JavaLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/ArrayListQuiz/ArrayListQuiz.java" />
+        <option value="$PROJECT_DIR$/src/lab07_linkedlists/linkedlist4/HistoList.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="26" />
+    <option name="width" value="1680" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1stSemCS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1stSemCS3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1stSemCS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1stSemCS3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1stSemCS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1stSemCS3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayListQuiz" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="test&#9;FILE&#9;file:///Users/devdeeprajpal/IdeaProjects/1stSemCS3/src/test.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Interfaces" />
+      <recent name="$PROJECT_DIR$/src/lab07_sets" />
+      <recent name="$PROJECT_DIR$/src/lab14_queues" />
+      <recent name="$PROJECT_DIR$/src/usacoTraining" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HistoListRunner">
+    <configuration name="Unit04vST" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="750" />
+      <option name="MAIN_CLASS_NAME" value="GeneralCardLayoutSquare" />
+      <module name="1stSemCS3" />
+      <option name="WIDTH" value="1000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HistoListRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab07_linkedlists.linkedlist4.HistoListRunner" />
+      <module name="1stSemCS3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab07_linkedlists.linkedlist4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaLinkedListRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab07_linkedlists.linkedlist1.JavaLinkedListRunner" />
+      <module name="1stSemCS3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab07_linkedlists.linkedlist1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab32ast" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab09_recursion.Lab32ast" />
+      <module name="1stSemCS3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab09_recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListFunHouseRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab07_linkedlists.linkedlist2.ListFunHouseRunner" />
+      <module name="1stSemCS3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab07_linkedlists.linkedlist2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListFunHouseTwoRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab07_linkedlists.linkedlist3.ListFunHouseTwoRunner" />
+      <module name="1stSemCS3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab07_linkedlists.linkedlist3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="1stSemCS3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lab32ast" />
+      <item itemvalue="Applet.Unit04vST" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.JavaLinkedListRunner" />
+      <item itemvalue="Application.ListFunHouseRunner" />
+      <item itemvalue="Application.ListFunHouseTwoRunner" />
+      <item itemvalue="Application.HistoListRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HistoListRunner" />
+        <item itemvalue="Application.ListFunHouseTwoRunner" />
+        <item itemvalue="Application.ListFunHouseRunner" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.JavaLinkedListRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d9bcaf1-f03a-49f8-955b-d06d08ea0783" name="Default Changelist" comment="" />
+      <created>1534471341662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534471341662</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20879121" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" weight="0.3298969" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.23651452" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981685" weight="0.25414938" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3973029" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32883817" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23651452" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50183153" side_tool="true" weight="0.25414938" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32572615" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab03_maps/SpanRunner.java</url>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>rhs.getDenominator()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rhs.getDenominator</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rhs.getNumerator()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rhs.getNumerator()/rhs.getDenominator()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lab02_stacks/Lab13c.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab02_stacks/PostFix.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab02_stacks/IntStack.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab02_stacks/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab02_stacks/StackTest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab02_stacks/StackTester.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab02_stacks/StackTester.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab02_stacks/SyntaxChecker.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab02_stacks/IntStackRunner.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Volumes/COMPSCI III/BobLabst.java" />
+    <entry file="file:///Volumes/COMPSCI III/gift1.java" />
+    <entry file="file:///Volumes/COMPSCI III/MonsterPQ.java" />
+    <entry file="file:///Volumes/COMPSCI III/Monster.class" />
+    <entry file="file://$PROJECT_DIR$/src/misc/ride.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/misc/BobLabst.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/misc/Monster.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/misc/MonsterPQ.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/misc/MonsterPQRunner.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab05_iterators/05.iterators/foreachloop.java" />
+    <entry file="file://$PROJECT_DIR$/src/misc/HistogramRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab01_matrices/01g/Block.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab01_matrices/01g/BlockGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab01_matrices/01g/BlockTestOne.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab01_matrices/01g/Board.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab05_iterators/05.iterators/AddTwo.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab05_iterators/05.iterators/AddOne.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab05_iterators/05.iterators/NextOne.java" />
+    <entry file="file://$PROJECT_DIR$/src/usacoTraining/milk2.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/usacoTraining/milk2.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/usacoTraining/milk2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist2/Linkable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist3/Linkable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist5/Linkable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist2/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist3/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist4/HistoNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist5/ThingCountRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist5/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist5/HistoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist5/HistogramList2Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist5/ThingCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist1/JavaLinkedListRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist2/ListFunHouseRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist3/ListFunHouseTwoRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist4/HistoListRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist1/JavaLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist2/ListFunHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayListQuiz/ArrayListQuiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist4/HistoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab07_linkedlists/linkedlist3/ListFunHouseTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>1st9WeeksCS3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
