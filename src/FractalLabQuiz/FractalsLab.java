@@ -40,9 +40,7 @@ class GfxApp extends Frame
 			drawSquare1(g,maxX/2,maxY/2,startX+(maxX/4),startY+(maxY/4));
 		}
 	}
-	
-	
-	
+
 	private void delay(double n)
 	{
 		for (double k = 1; k < n; k+=0.001);
